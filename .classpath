@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="fastjson-1.2.8.jar" sourcepath="C:/Users/Administrator/.m2/repository/com/alibaba/fastjson/1.2.8/fastjson-1.2.8-sources.jar"/>
+	<classpathentry kind="lib" path="commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="commons-collections-3.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
